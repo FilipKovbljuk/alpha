@@ -1,0 +1,19 @@
+Predmet,Typ,Ucitel,Ucebna,Pocet
+C,teorie,Paní Studenková,Učebna 101,3
+M,teorie,Paní Hrabalová,Učebna 102,4
+CIT,cvičení,Pan Vana,Laboratoř 201,2
+DS,cvičení,Paní Vobecký,Učebna 202,2
+DS,teorie,Pan Vobecký,Počítačová učebna,1
+PSS,cvičení,Pan Masopust,Učebna 101,2
+PSS,teorie,Pan Masopust,Učebna 102,1
+PIS,cvičení,Pan Benda,Laboratoř 201,2
+PIS,teorie,Paní Brcakova,Učebna 202,2
+TP,teorie,Pan Masopust,Počítačová učebna,1
+A,teorie,Pan Juchelka,Učebna 101,4
+TV,cvičení,Paní Lopocha,Učebna 102,2
+PV,cvičení,Pan ředitel Mandík,Laboratoř 201,2
+PV,teorie,Paní Raichlova,Učebna 202,1
+AM,teorie,Pan Kalmuzer,Počítačová učebna,2
+WA,cvičení,Pan Adamek,Učebna 101,2
+WA,teorie,Pan Adamek,Učebna 102,1
+Volno,None,None,None,16
